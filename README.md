@@ -22,6 +22,7 @@
     <td>def</td>
   </tr>
 </table>
+<hr>
 
 [google](http://www.google.com)
 
