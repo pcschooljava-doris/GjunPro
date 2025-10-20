@@ -27,5 +27,7 @@
 
 [java檔連結](Gjun/src/main/java/dao/MemberDao.java)
 
+![Coffice](pic/Coffee.jpg)
+
 <img width="464" height="376" alt="image" src="https://github.com/user-attachments/assets/8e0ceb47-6a16-4677-83fd-16c5149c01f9" />
 
